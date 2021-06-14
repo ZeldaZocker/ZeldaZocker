@@ -4,7 +4,7 @@ zeldazocker@pr0grammer:~$ zeldazocker > README.md
 
 > ## Hello, World!
 
-<img align="left" src="https://www.github.com/zeldazocker.png" width="300" height="300" />
+<img align="left" src="https://www.github.com/zeldazocker.png" width="360" height="360" />
 
 ## zeldazocker@pr0grammer
 
@@ -24,4 +24,11 @@ zeldazocker@pr0grammer:~$ zeldazocker > README.md
 ![contact1](https://img.shields.io/static/v1?logo=github&label=&message=ZeldaZocker&color=555&logoColor=AAA&style=flat-square)
 ![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=_Noah%20|%20ZeldaZocker%230272&color=555&logoColor=AAA&style=flat-square)
 
-<!--- Highly inspired by @x00bence ---> 
+## Main programming languages
+
+![CS](https://img.shields.io/badge/C_%23%20-%23239120.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+
+
+<!--- Heavily inspired by @x00bence ---> 
