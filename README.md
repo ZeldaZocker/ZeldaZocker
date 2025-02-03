@@ -12,10 +12,10 @@ zeldazocker@pr0grammer:~$ zeldazocker > README.md
 ![name2](https://img.shields.io/static/v1?label=&message=ZeldaZocker&color=555&style=flat-square)
 
 ![asl](https://img.shields.io/static/v1?label=&message=A%2FS%2FL%3A&color=111&style=flat-square)
-![asl2](https://img.shields.io/static/v1?label=&message=20%2C%20male%2C%20Germany&color=555&style=flat-square)
+![asl2](https://img.shields.io/static/v1?label=&message=23%2C%20male%2C%20Germany&color=555&style=flat-square)
 
 ![occupation](https://img.shields.io/static/v1?label=&message=occupation%3A&color=111&style=flat-square)
-![occupation2](https://img.shields.io/static/v1?label=&message=Student%2C%20IT%20Specialist/Systems%20Integration&color=555&style=flat-square)
+![occupation2](https://img.shields.io/static/v1?label=&message=System%20Administrator&color=555&style=flat-square)
 
 ![hobbies](https://img.shields.io/static/v1?label=&message=hobbies%3A&color=111&style=flat-square)
 ![hobbies2](https://img.shields.io/static/v1?label=&message=gaming%2C%20programming&color=555&style=flat-square)
